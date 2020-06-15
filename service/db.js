@@ -1,0 +1,10 @@
+//添加mysql配置
+module.exports={
+  mysql:{
+    host:'localhost',
+    user:'root',
+    password:'qinjinmei',
+    port:'3306',
+    database:'library'
+  }
+}
