@@ -12,7 +12,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "element-ui": "^2.13.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "iview": "^3.5.4",
     "less": "^3.10.3",
